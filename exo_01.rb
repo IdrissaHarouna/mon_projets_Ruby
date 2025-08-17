@@ -1,7 +1,8 @@
-irb(main):001:0> puts "Bonjour, monde !"
+
+ puts "Bonjour, monde !"
 Bonjour, monde !
 => nil
-irb(main):002:0> 
+
 
 
 
