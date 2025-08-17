@@ -1,2 +1,1 @@
-Programmatins avec Ruby
-pris en main
+Programmer avec Ruby
