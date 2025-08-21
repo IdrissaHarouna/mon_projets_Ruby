@@ -1,4 +1,4 @@
-  (1..etages).each do |i|
+(1..etages).each do |i|
      puts "#" * i
    end
 
@@ -31,11 +31,11 @@ Voici la pyramide :
 #############
 ##############
 ###############
-=> 1..15
 
 
 
-irb(main):046:0> puts "Salut, bienvenue dans ma super pyramide ! Combien d'étage
+
+puts "Salut, bienvenue dans ma super pyramide ! Combien d'étage
 s veux-tu ?"
 Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?
 => nil
